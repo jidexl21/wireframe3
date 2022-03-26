@@ -1,0 +1,30 @@
+.head{
+    border: 1px solid #dedede;
+    padding-left: 30px;
+    margin-bottom: 40px;
+}
+.image-cont img{
+    max-width: 40vw;
+}
+.box {
+    border: 1px solid #dedede;
+    background-color: #efefef;
+}
+.pad-3 {
+    padding: 30px;
+}
+
+.pad-1 {
+    padding: 10px;
+}
+
+.font-md {
+    font-size:  16px;
+}
+
+.vertical-center {
+    margin: auto 0px;
+}
+.footer {
+    margin-top: 20px;
+}
